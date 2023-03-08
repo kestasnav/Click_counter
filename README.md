@@ -1,6 +1,4 @@
 # Click Counter
-
-﻿# PrestaShop Test Module
  
  <b> Apie modulį: </b>
 <li> Modulis skaičiuoja kiekvienos nuorodos paspaudimo bendrą paspaudimų skaičių.
